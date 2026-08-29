@@ -1,0 +1,80 @@
+{
+  "schema_version": 2,
+  "asset_id": "hipobuy-github-pages-parcel-status-handoff-20260829",
+  "platform_id": "github-pages",
+  "brand": "Hipobuy",
+  "target_url": "https://hipobuy.org/",
+  "public_base_url": "https://anziteng.github.io/hipobuy-spreadsheet-parcel-status-handoff/",
+  "title": "Hipobuy Spreadsheet Parcel Status Handoff",
+  "content_angle": "A four-page record the last observable parcel event, its age, source, and the next responsible review. Its independent output remains useful without the project link and it makes no claim about current inventory, price, quality, eligibility, policy, or delivery outcomes.",
+  "difference_notes": "This parcel status handoff produces a distinct saved output, evidence field set, worked example, exception path, and decision vocabulary from earlier Hipobuy assets.",
+  "generator": "tools/run-auto-tasks-2026-08-26.mjs",
+  "content_quality": {
+    "depth_profile": "task_complete_v2",
+    "real_data_status": "unavailable",
+    "independent_user_task": "Complete one parcel-status handoff and save a parcel status handoff recording the last observable event, source, age check, and next responsible review.",
+    "link_removed_value": "Without the brand, logo, CTA, or project link, the resource still teaches the method, exception path, worked example, and fields needed for a parcel status handoff recording the last observable event, source, age check, and next responsible review.",
+    "compared_asset_ids": [
+      "hipobuy-github-pages-parcel-exceptions-01",
+      "hipobuy-github-pages-gate-inspector-01",
+      "hipobuy-github-pages-guide-01",
+      "hipobuy-github-pages-dead-link-recovery-map-20260829",
+      "hipobuy-github-pages-image-sequence-review-20260829"
+    ],
+    "unique_modules": [
+      "Prepare the parcel handoff card",
+      "Parcel reference",
+      "Last observable event",
+      "Event age",
+      "Owner and next check"
+    ],
+    "reused_paragraphs": [],
+    "duplicate_check_result": "Passed after comparing the task, output, field set, examples, and exceptions against hipobuy-github-pages-parcel-exceptions-01, hipobuy-github-pages-gate-inspector-01, hipobuy-github-pages-guide-01, hipobuy-github-pages-dead-link-recovery-map-20260829, hipobuy-github-pages-image-sequence-review-20260829.",
+    "depth_audit": {
+      "home": {
+        "visible_word_count": 754,
+        "h1_count": 1,
+        "h2_count": 8,
+        "section_count": 9,
+        "substantive_block_count": 28,
+        "long_block_count": 12,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "faq": {
+        "visible_word_count": 447,
+        "h1_count": 1,
+        "h2_count": 5,
+        "section_count": 6,
+        "substantive_block_count": 16,
+        "long_block_count": 7,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "usage-guide": {
+        "visible_word_count": 477,
+        "h1_count": 1,
+        "h2_count": 5,
+        "section_count": 6,
+        "substantive_block_count": 18,
+        "long_block_count": 12,
+        "task_signal_count": 4,
+        "duplicate_block_count": 0,
+        "duplicate_block_ratio": 0
+      },
+      "alternatives": {
+        "visible_word_count": 498,
+        "h1_count": 1,
+        "h2_count": 9,
+        "section_count": 6,
+        "substantive_block_count": 21,
+        "long_block_count": 3,
+        "task_signal_count": 4,
+        "duplicate_block_count": 3,
+        "duplicate_block_ratio": 0.14285714285714285
+      }
+    }
+  }
+}
